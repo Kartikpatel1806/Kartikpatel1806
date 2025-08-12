@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **MIT ADT University** (CGPA: 8.21 / 10)  
-- 🌱 Currently learning **Spring Boot, Data Structures, Advanced Java**  
+- ✅ Completed **Spring Boot, Data Structures, Advanced Java**  
 - 🤝 Open to collaborating on **Java Web Development & Open Source Projects**  
 - 📂 All my projects are here 👉 [**GitHub**](https://github.com/Kartikpatel1806)  
 - 🛠 Projects I've built:  
