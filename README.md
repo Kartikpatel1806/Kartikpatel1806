@@ -28,17 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartikpatel1806&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikpatel1806&layout=compact&theme=tokyonight&hide_border=true)  
-
----
-
-## 📈 Activity Graph  
-![Kartik's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kartikpatel1806&theme=react-dark)  
-
----
-
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikpatel1806)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikpatel1806@gmail.com)  
