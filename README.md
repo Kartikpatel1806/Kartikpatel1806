@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 - 🎓 Pursuing **B.Tech in Computer Science Engineering** at **MIT ADT University**  
-- 📊 **CGPA:** 8.21 / 10  
+- 📊 **CGPA:** 8.3 / 10  
 - 🧑‍💻 Strong in **Java, Spring Boot, Data Structures & Advanced Java**  
 - ⚛️ Frontend experience with **React.js**  
 - 🤖 Exploring **Data Science & Generative AI**  
